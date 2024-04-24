@@ -1,0 +1,76 @@
+{
+    "Thriller": [
+        {
+            "title": "Andhadhun",
+            "description": "Andhadhun is a 2018 Indian black comedy crime thriller film directed by Sriram Raghavan.",
+            "trailer_url": "https://www.youtube.com/watch?v=2iVYI99VGaw",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571740/andhadhun_pf3t60.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.amazon.com/Andhadhun-Tabu/dp/B07NNSW2K2",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Vikram Vedha",
+            "description": "Vikram Vedha is a crime thriller directed by Pushkar-Gayathri. It revolves around the cat-and-mouse game between a righteous police officer, Vikram, and a notorious gangster, Vedha.",
+            "trailer_url": "https://www.youtube.com/watch?v=1sVr-uWZPjE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001352/VikramVedha_meydtx.webp",
+            "platform": "Jio Cinema",
+            "platform_url": "https://www.jiocinema.com/movies/vikram-vedha/3744709",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Lucia",
+            "description": "Lucia is a Kannada-language psychological thriller directed by Pawan Kumar. It intertwines the stories of a lucid dreamer and a struggling actor.",
+            "trailer_url": "https://www.youtube.com/watch?v=pgIL2H-OdcA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940025/Lucia_bdgefc.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Lucia/0QX3DMZOE39KOQV8GPJ0BLUX76",
+            "genre": "Psychological Thriller"
+        },
+        {
+            "title": "Sacred Games",
+            "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+            "trailer_url": "https://www.youtube.com/watch?v=AkUgf2jIPyI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571741/sacredGames_cogmbv.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/80115328",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Mirzapur S1",
+            "description": "Mirzapur is a gripping crime thriller series set in the heartland of India, where power, politics, and revenge collide. The story revolves around the lawless town of Mirzapur, ruled by mafia dons and corrupt politicians, as two brothers become entangled in the web of violence and ambition.",
+            "trailer_url": "https://www.youtube.com/watch?v=ZNeGF-PvRHY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939067/mirzapurS1_y54hvx.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/0PDOKMV9CRLOMO5EUKNCUJLG4Q/ref=atv_dp_share_cu_r",
+            "genre": "Crime, Thriller"
+        },
+        {
+            "title": "Special OPS",
+            "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind.",
+            "trailer_url": "https://www.youtube.com/watch?v=GF0H5DZAE2g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006061/SpecialOps_kb7uis.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/special-ops/s-2032/seasons/season-1/ss-6470",
+            "genre": "Action Thriller"
+        },
+        {
+            "title": "Farzi",
+            "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+            "trailer_url": "https://www.youtube.com/watch?v=rcQ_xZdzPBc",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938472/Farzi_rqu93e.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Farzi/0HDHQAUF5LPWOJRCO025LFJSJI",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "IB71",
+            "description": "Set in the backdrop of the 1971 Indo-Pak war, IB71 chronicles the untold story of a covert operation led by India's Intelligence Bureau to infiltrate enemy lines and gather crucial information that could change the course of the war.",
+            "trailer_url": "https://www.youtube.com/watch?v=-V9tu8rqWIg",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937002/ib71_fcz0nh.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/in/movies/ib71/1260143875",
+            "genre": "Historical Thriller"
+        }
+    ]
+}

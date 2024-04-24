@@ -1,0 +1,454 @@
+{
+    "movies": [
+        {
+            "title": "Inception",
+            "description": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571752/inception_aeknxr.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/70131314",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Godfather",
+            "description": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola.",
+            "trailer_url": "https://www.youtube.com/watch?v=sY1S34973zA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713005943/GodFather_qlv5tu.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/The-Godfather/0NZP0QITBHVQGTRES3BH7Y5VW6",
+            "genre": "Crime"
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "description": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont.",
+            "trailer_url": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571749/theShawShankRedemption_auaqpp.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/geo-availability",
+            "genre": "Drama"
+        },
+        {
+            "title": "The Matrix",
+            "description": "The Matrix is a 1999 science fiction action film written and directed by the Wachowskis.",
+            "trailer_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939941/matrix_rxiuep.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/The-Matrix/0MNMSXF63GQDYGKL8E4HV9BYO2",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "description": "The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by Peter Jackson.",
+            "trailer_url": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001071/lordOfRings_spph3s.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.max.com/geo-availability",
+            "genre": "Fantasy"
+        },
+        {
+            "title": "Goodfellas",
+            "description": "Goodfellas is a 1990 American crime film directed by Martin Scorsese.",
+            "trailer_url": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571747/GoodFellas_kbhfyp.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/be-en/title/70002022",
+            "genre": "Crime"
+        },
+        {
+            "title": "Gladiator",
+            "description": "Gladiator is a 2000 epic historical drama film directed by Ridley Scott.",
+            "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941476/gladiator_zdt6da.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/geo-availability",
+            "genre": "Drama"
+        },
+        {
+            "title": "Avatar",
+            "description": "Avatar is a 2009 American epic science fiction film directed, written, produced, and co-edited by James Cameron.",
+            "trailer_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002493/AVATAR2_z69z2u.webp",
+            "platform": "Disney+",
+            "platform_url": "https://www.disneyplus.com/movies/avatar/2YOnkRN4LwZZ",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "Interstellar",
+            "description": "Interstellar is a 2014 epic science fiction film directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940422/interstellar_zdhfgh.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70305903",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Departed",
+            "description": "The Departed is a 2006 American crime film directed by Martin Scorsese.",
+            "trailer_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571744/TheDeparted_amoqdr.jpg",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713003279/TheDeparted_tnukmu.jpg",
+            "platform": "Hulu",
+            "platform_url": "https://www.hulu.com/movie/the-departed-03428b09-82e1-4c63-a6c4-19a126e98f24",
+            "genre": "Crime"
+        },
+        {
+            "title": "The Godfather: Part II",
+            "description": "The Godfather: Part II is a 1974 American crime film directed by Francis Ford Coppola.",
+            "trailer_url": "https://www.youtube.com/watch?v=8PyZCUg05qU",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001690/godFather2_scyr4e.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/za/title/60011663",
+            "genre": "Crime"
+        },
+        {
+            "title": "The Lion King",
+            "description": "The Lion King is a 1994 American animated musical drama film produced by Walt Disney Feature Animation and released by Walt Disney Pictures.",
+            "trailer_url": "https://www.youtube.com/watch?v=4sj1MT05lAA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002119/TheLionKing_womuk7.webp",
+            "platform": "Disney+",
+            "platform_url": "https://www.disneyplus.com/movies/the-lion-king/gDBvSe4GpZPD",
+            "genre": "Drama"
+        },
+        {
+            "title": "The Dark Knight Rises",
+            "description": "The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=g8evyE9TuYk",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571744/theDarkKnightRises_aqpr1q.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/es/en/feature/urn:hbo:feature:GYDQXMgVDW8LDGgEAAAAF",
+            "genre": "Superhero"
+        },
+        {
+            "title": "3 Idiots",
+            "description": "3 Idiots is a 2009 Indian coming-of-age comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=xvszmNXdM4w",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006311/3idiots_fywooe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/3-Idiots/0LH1GMRIWABG6AFSW62O3BJJHH",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "Dilwale Dulhania Le Jayenge is a 1995 Indian romance film directed by Aditya Chopra.",
+            "trailer_url": "https://www.youtube.com/watch?v=oIZ4U21DRlM",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001470/ddlj_lkcyot.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Dilwale-Dulhania-Le-Jayenge/0FWM6LXBGLJP0XQDQYPI9H4PMH",
+            "genre": "Romance"
+        },
+        {
+            "title": "Lagaan",
+            "description": "Lagaan is a 2001 Indian epic sports-drama film directed by Ashutosh Gowariker.",
+            "trailer_url": "https://www.youtube.com/watch?v=rZPbpymefuE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001602/Lagaan_dmnwsj.webp",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/60020906",
+            "genre": "Sports-Drama"
+        },
+        {
+            "title": "Kabhi Khushi Kabhie Gham",
+            "description": "Kabhi Khushi Kabhie Gham is a 2001 Indian family drama film written and directed by Karan Johar.",
+            "trailer_url": "https://www.youtube.com/watch?v=7uY1JbWZKPA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941193/k3g_e8ppw1.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Kabhi-Khushi-Kabhie-Gham/0JTA4DCIE2BQ14BXW86DCXNRYX",
+            "genre": "Family Drama"
+        },
+        {
+            "title": "Andhadhun",
+            "description": "Andhadhun is a 2018 Indian black comedy crime thriller film directed by Sriram Raghavan.",
+            "trailer_url": "https://www.youtube.com/watch?v=2iVYI99VGaw",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571740/andhadhun_pf3t60.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.amazon.com/Andhadhun-Tabu/dp/B07NNSW2K2",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Gully Boy",
+            "description": "Gully Boy is a 2019 Indian Hindi-language musical drama film directed by Zoya Akhtar.",
+            "trailer_url": "https://www.youtube.com/watch?v=JfbxcD6biOk",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712942199/Gully-Boy-wallpaper_qojetn.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Gully-Boy/0I5OF8K1O8JNLUPOQ3VU3MBR5I",
+            "genre": "Musical Drama"
+        },
+        {
+            "title": "PK",
+            "description": "PK is a 2014 Indian satirical comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002755/pk_fgzyvo.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70303496",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Queen",
+            "description": "Queen is a 2013 Indian comedy-drama film directed by Vikas Bahl.",
+            "trailer_url": "https://www.youtube.com/watch?v=KGC6vl3lzf0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006478/queen_nemq6u.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Queen/0MRYKAWL6E1OV2J7WL28DS9MGV",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Bajrangi Bhaijaan",
+            "description": "Bajrangi Bhaijaan is a 2015 Indian Hindi-language drama film directed by Kabir Khan.",
+            "trailer_url": "https://www.youtube.com/watch?v=Oz_ZJhcOX1E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571744/BajrangiBhaijaan_o6vqyv.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.amazon.com/Bajrangi-Bhaijaan-Kabir-Khan/dp/B073WLFCTW",
+            "genre": "Drama"
+        },
+        {
+            "title": "Dangal",
+            "description": "Dangal is a 2016 Indian Hindi-language sports film directed by Nitesh Tiwari.",
+            "trailer_url": "https://www.youtube.com/watch?v=x_7YlGv9u1g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713003203/dangal_sawwhc.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Dangal/0IIOG10OTQ7YE1RZ3I202LHQUB",
+            "genre": "Sports"
+        },
+        {
+            "title": "Baahubali: The Beginning",
+            "description": "Baahubali: The Beginning is an epic historical fiction film directed by S.S. Rajamouli. It follows the story of Shiva, a young man who learns about his heritage and embarks on a quest to reclaim the throne of his kingdom.",
+            "trailer_url": "https://www.youtube.com/watch?v=VdafjyFK3ko",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002642/bahubaliBeginning_klq8vh.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/80204117",
+            "genre": "Historical Fiction"
+        },
+        {
+            "title": "Rangasthalam",
+            "description": "Rangasthalam is a period action drama directed by Sukumar. It tells the story of Chitti Babu, a partially deaf man, who becomes involved in a political rivalry in his village.",
+            "trailer_url": "https://www.youtube.com/watch?v=sueMmTm-M4Y",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006181/Rangasthalam_yyjg89.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Rangasthalam/0HSV48B67LQUWLLQCR26F6ZJFZ",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "KGF: Chapter 1",
+            "description": "KGF: Chapter 1 is a Kannada-language action film directed by Prashanth Neel. It follows the rise of Rocky, a gangster, in the gold mines of Kolar, Karnataka.",
+            "trailer_url": "https://www.youtube.com/watch?v=-KfsY-qwBS0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940783/KGF1_z6ngox.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/KGF-Chapter-1-Hindi/0S3QBNP7336VVT7JJCVVIRHA1L",
+            "genre": "Action"
+        },
+        {
+            "title": "Vikram Vedha",
+            "description": "Vikram Vedha is a crime thriller directed by Pushkar-Gayathri. It revolves around the cat-and-mouse game between a righteous police officer, Vikram, and a notorious gangster, Vedha.",
+            "trailer_url": "https://www.youtube.com/watch?v=1sVr-uWZPjE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001352/VikramVedha_meydtx.webp",
+            "platform": "Jio Cinema",
+            "platform_url": "https://www.jiocinema.com/movies/vikram-vedha/3744709",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Lucia",
+            "description": "Lucia is a Kannada-language psychological thriller directed by Pawan Kumar. It intertwines the stories of a lucid dreamer and a struggling actor.",
+            "trailer_url": "https://www.youtube.com/watch?v=pgIL2H-OdcA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940025/Lucia_bdgefc.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Lucia/0QX3DMZOE39KOQV8GPJ0BLUX76",
+            "genre": "Psychological Thriller"
+        },
+        {
+            "title": "Super Deluxe",
+            "description": "Super Deluxe is a Tamil-language black comedy-drama directed by Thiagarajan Kumararaja. It follows the interconnected lives of several characters over the course of a day.",
+            "trailer_url": "https://www.youtube.com/watch?v=3-Xq_Zz3nPA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713005850/SuperDeluxe_fi07vd.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/81128584",
+            "genre": "Black Comedy-Drama"
+        },
+        {
+            "title": "Bangalore Days",
+            "description": "Bangalore Days is a Malayalam-language romantic drama directed by Anjali Menon. It follows the lives of three cousins who move to Bangalore and explores their relationships and aspirations.",
+            "trailer_url": "https://www.youtube.com/watch?v=uVpHL5g4buY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002888/bangaloreDays_t9v9xe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Bangalore-Days/0K1VXSDILKJZZCVUSIV07FV0HT",
+            "genre": "Romantic Drama"
+        },
+        {
+            "title": "Arjun Reddy",
+            "description": "Arjun Reddy is a Telugu-language romantic drama directed by Sandeep Reddy Vanga. It tells the story of a brilliant but self-destructive surgeon and his tumultuous relationship with his girlfriend.",
+            "trailer_url": "https://www.youtube.com/watch?v=aozErj9NqeE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002338/ArjunReddy_madsxi.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Arjun-Reddy/0OBAEGVBDLVH04ZLXGRY1LQO6L",
+            "genre": "Romantic Drama"
+        },
+        {
+            "title": "Sacred Games",
+            "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+            "trailer_url": "https://www.youtube.com/watch?v=AkUgf2jIPyI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571741/sacredGames_cogmbv.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/80115328",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Mirzapur S2",
+            "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+            "trailer_url": "https://www.youtube.com/watch?v=xMKzdQrC5TI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938830/mirzapur.jpg_fnhfq2.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Mirzapur/0FBF7DWFYG99Y3TSNVJ4ELOLBO",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Mirzapur S1",
+            "description": "Mirzapur is a gripping crime thriller series set in the heartland of India, where power, politics, and revenge collide. The story revolves around the lawless town of Mirzapur, ruled by mafia dons and corrupt politicians, as two brothers become entangled in the web of violence and ambition.",
+            "trailer_url": "https://www.youtube.com/watch?v=ZNeGF-PvRHY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939067/mirzapurS1_y54hvx.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/0PDOKMV9CRLOMO5EUKNCUJLG4Q/ref=atv_dp_share_cu_r",
+            "genre": "Crime, Thriller"
+        },
+        {
+            "title": "Delhi Crime",
+            "description": "Based on the 2012 Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+            "trailer_url": "https://www.youtube.com/watch?v=jNuKwlKJx2E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001247/DelhiCrime_dpqwxn.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/81076756",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "The Family Man",
+            "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+            "trailer_url": "https://www.youtube.com/watch?v=XatRGut65VI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941298/The_Family_Man_wztkru.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/The-Family-Man/0S3QYI59BAEI5KVLHCKSR91YGD",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "Made in Heaven",
+            "description": "Made In Heaven chronicles the lives of Tara and Karan, two wedding planners in Delhi. India is a potent blend of old and new.",
+            "trailer_url": "https://www.youtube.com/watch?v=u0UkDQaR5KQ",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939403/madeInHeaven_t0rawv.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Made-In-Heaven/0JP36WERGLAJLNET3SZS9XTXJ1",
+            "genre": "Drama"
+        },
+        {
+            "title": "Panchayat",
+            "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+            "trailer_url": "https://www.youtube.com/watch?v=mojZJ7oeD_g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940230/Panchayaat_mvu12t.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Panchayat/0KEP4A6DWRKFYQFTSU5RXHEAN2",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Special OPS",
+            "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind.",
+            "trailer_url": "https://www.youtube.com/watch?v=GF0H5DZAE2g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006061/SpecialOps_kb7uis.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/special-ops/s-2032/seasons/season-1/ss-6470",
+            "genre": "Action Thriller"
+        },
+        {
+            "title": "Paatal Lok",
+            "description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit of it leads him to 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+            "trailer_url": "https://www.youtube.com/watch?v=cNwWMW4mxO8",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939559/pataalLok_odosi4.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Paatal-Lok/0Q3AZ9MO1VULJNIG0PT00LR0M0",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Aarya",
+            "description": "When her world suddenly turns upside down, will Aarya become the very thing she hated?How far will she go to survive and protect her family?",
+            "trailer_url": "https://www.youtube.com/watch?v=ZYajW2ePmFQ",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006642/Arya_zilgfy.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/aarya/1260028094/seasons/season-1/ss-6516",
+            "genre": "Drama"
+        },
+        {
+            "title": "Scam 1992",
+            "description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+            "trailer_url": "https://www.youtube.com/watch?v=ISORfez27og",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713003546/Scam-1992_lwwhvd.webp",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta-story-1700000292",
+            "genre": "Biographical Drama"
+        },
+        {
+            "title": "Scam 2003",
+            "description": "Born in Khanapur in Karnataka, Telgi became the mastermind behind one of the most ingenious schemes in Indian history that spread across multiple states and shook the entire country.",
+            "trailer_url": "https://www.youtube.com/watch?v=JrotIxxCXiA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712936618/scam2003_ymssfc.jpg",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-2003-the-telgi-story-hindi-1700001283",
+            "genre": "Biography, Crime, Drama"
+        },
+        {
+            "title": "Farzi",
+            "description": "An artist who gets pulled into the murky high stakes of a con job and a fiery task force officer on the mission to rid the country of his menaces in a fast-paced, edgy one-of-a-kind thriller.",
+            "trailer_url": "https://www.youtube.com/watch?v=rcQ_xZdzPBc",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938472/Farzi_rqu93e.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Farzi/0HDHQAUF5LPWOJRCO025LFJSJI",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "The Ghazi Attack",
+            "description": "Set in 1971, during the Indo-Pakistani War, the film depicts the true events surrounding the classified operation conducted by the Indian Navy against the Pakistani submarine Ghazi, which aimed to destroy INS Vikrant.",
+            "trailer_url": "https://www.youtube.com/watch?v=Xn2qOnKuOoc",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712936909/GhaziAttack_aef7bl.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/80175334",
+            "genre": "War Drama"
+        },
+        {
+            "title": "IB71",
+            "description": "Set in the backdrop of the 1971 Indo-Pak war, IB71 chronicles the untold story of a covert operation led by India's Intelligence Bureau to infiltrate enemy lines and gather crucial information that could change the course of the war.",
+            "trailer_url": "https://www.youtube.com/watch?v=-V9tu8rqWIg",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937002/ib71_fcz0nh.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/in/movies/ib71/1260143875",
+            "genre": "Historical Thriller"
+        },
+        {
+            "title": "Sam Bahadur",
+            "description": "Sam Bahadur is a riveting biographical film that chronicles the remarkable life of Sam Manekshaw, one of India's most celebrated military leaders. Sam Manekshaw is one of the most decorated officers in the Indian army, serving for over four decades and fighting in five wars. He is the first army officer to be promoted to the rank of Field Marshal.",
+            "trailer_url": "https://www.youtube.com/watch?v=6xJptj7AVSA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937143/SamBahadur_hyyjhg.jpg",
+            "platform": "Zee5",
+            "platform_url": "https://www.zee5.com/movies/details/sam-bahadur/0-0-1z5500337",
+            "genre": "Biography, Drama"
+        },
+        {
+            "title": "Dhamaal",
+            "description": "Dhamaal is a hilarious comedy film that follows the misadventures of four friends who embark on a quest to find a hidden treasure. Their journey is filled with slapstick humor, unexpected twists, and madcap escapades.",
+            "trailer_url": "https://www.youtube.com/watch?v=6hqN9FO3-aI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938389/Dhamaal_orecax.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Dhamaal/0OJWZZGT9P1KPQ9M7ZKWWG3XJ1",
+            "genre": "Comedy, Adventure"
+        },
+        {
+            "title": "Double Dhamaal",
+            "description": "Double Dhamaal is a rib-tickling sequel to the hit comedy 'Dhamaal.' This time, the four friends find themselves in even crazier situations as they try to outsmart a corrupt businessman and his cronies. Packed with double the laughter, double the fun, and double the dhamaal!",
+            "trailer_url": "https://www.youtube.com/watch?v=zkIfgcl0sG0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937938/doubleDhamaal_fw6whr.jpg",
+            "platform": "Zee5",
+            "platform_url": "https://www.zee5.com/movies/details/double-dhamaal/0-0-movie_2008789836",
+            "genre": "Comedy, Adventure"
+        },
+        {
+            "title": "Total Dhamaal",
+            "description": "Total Dhamaal is a roller-coaster ride of comedy, action, and adventure. When a group of eccentric individuals set out on a treasure hunt, they encounter wild animals, treacherous terrains, and each other's eccentricities. With non-stop laughs and heart-pounding thrills, it's total dhamaal all the way!",
+            "trailer_url": "https://www.youtube.com/watch?v=fo9EhcwQXcM",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938649/TotalDhamaal.jpg_nn1cfg.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/in/movies/total-dhamaal/1000233697",
+            "genre": "Comedy, Adventure"
+        }
+    ]
+}

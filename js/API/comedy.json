@@ -1,0 +1,76 @@
+{
+    "Comedy": [
+        {
+            "title": "3 Idiots",
+            "description": "3 Idiots is a 2009 Indian coming-of-age comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=xvszmNXdM4w",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006311/3idiots_fywooe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/3-Idiots/0LH1GMRIWABG6AFSW62O3BJJHH",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "PK",
+            "description": "PK is a 2014 Indian satirical comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002755/pk_fgzyvo.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70303496",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Queen",
+            "description": "Queen is a 2013 Indian comedy-drama film directed by Vikas Bahl.",
+            "trailer_url": "https://www.youtube.com/watch?v=KGC6vl3lzf0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006478/queen_nemq6u.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Queen/0MRYKAWL6E1OV2J7WL28DS9MGV",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Super Deluxe",
+            "description": "Super Deluxe is a Tamil-language black comedy-drama directed by Thiagarajan Kumararaja. It follows the interconnected lives of several characters over the course of a day.",
+            "trailer_url": "https://www.youtube.com/watch?v=3-Xq_Zz3nPA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713005850/SuperDeluxe_fi07vd.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/81128584",
+            "genre": "Black Comedy-Drama"
+        },
+        {
+            "title": "Panchayat",
+            "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+            "trailer_url": "https://www.youtube.com/watch?v=mojZJ7oeD_g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940230/Panchayaat_mvu12t.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Panchayat/0KEP4A6DWRKFYQFTSU5RXHEAN2",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Dhamaal",
+            "description": "Dhamaal is a hilarious comedy film that follows the misadventures of four friends who embark on a quest to find a hidden treasure. Their journey is filled with slapstick humor, unexpected twists, and madcap escapades.",
+            "trailer_url": "https://www.youtube.com/watch?v=6hqN9FO3-aI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938389/Dhamaal_orecax.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Dhamaal/0OJWZZGT9P1KPQ9M7ZKWWG3XJ1",
+            "genre": "Comedy, Adventure"
+        },
+        {
+            "title": "Double Dhamaal",
+            "description": "Double Dhamaal is a rib-tickling sequel to the hit comedy 'Dhamaal.' This time, the four friends find themselves in even crazier situations as they try to outsmart a corrupt businessman and his cronies. Packed with double the laughter, double the fun, and double the dhamaal!",
+            "trailer_url": "https://www.youtube.com/watch?v=zkIfgcl0sG0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937938/doubleDhamaal_fw6whr.jpg",
+            "platform": "Zee5",
+            "platform_url": "https://www.zee5.com/movies/details/double-dhamaal/0-0-movie_2008789836",
+            "genre": "Comedy, Adventure"
+        },
+        {
+            "title": "Total Dhamaal",
+            "description": "Total Dhamaal is a roller-coaster ride of comedy, action, and adventure. When a group of eccentric individuals set out on a treasure hunt, they encounter wild animals, treacherous terrains, and each other's eccentricities. With non-stop laughs and heart-pounding thrills, it's total dhamaal all the way!",
+            "trailer_url": "https://www.youtube.com/watch?v=fo9EhcwQXcM",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938649/TotalDhamaal.jpg_nn1cfg.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/in/movies/total-dhamaal/1000233697",
+            "genre": "Comedy, Adventure"
+        }
+    ]
+}

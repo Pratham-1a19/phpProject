@@ -1,0 +1,650 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&family=Roboto:wght@400;900&display=swap');
+
+@media(max-width: 1200px) and (min-width: 1000px) {
+    .header {
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .left img{
+        width: 8rem;
+    }
+    .section1 {
+        width: 100%;
+    }
+    .section2 {
+        padding: 35px 0px;
+        width: 100%;
+        
+    }
+
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 3.125rem;
+    }
+
+    .section2 .p2 {
+        font-size: 1.525rem;
+        text-align: center;
+    }
+
+    .section2 img {
+        width: 30rem;
+        height: 20rem;
+    }
+
+    .section3 {
+        padding: 35px 0px;
+        /* flex-direction: column-reverse; */
+        width: 100%;
+    }
+    .section3 .p3 {
+        font-size: 2.125rem;
+        text-align: center;
+    }
+
+    .section3 .p4 {
+        font-size: 1.525rem;
+        text-align: center;
+    }
+
+    .section3 img {
+        width: 30rem;
+        height: 20rem;
+    }
+
+    .section2 {
+        padding: 35px 0px;
+    }
+    .email {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .email input {
+        /* width: 200px; */
+        width: 18rem;
+        padding: 15px 20px;
+    }
+
+    .email button {
+        padding: .3rem .8rem;
+        margin-top: 9px;
+    }
+    .faqs li button{
+        width: 60.6rem;
+    }
+    .para {
+        width: 55.7rem
+    }
+    .section4 .faqTitle {
+        font-size: 2rem;
+    }
+    .section4 {
+        width: 100%;
+    }
+    .section5 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1000px) and (min-width: 900px) {
+    .header {
+        justify-content: space-between;
+    }
+
+    .left img {
+        width: 7rem;
+    }
+    .section2 {
+        width: 100%;
+        padding: 35px 0px;
+    }
+
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 3.105rem;
+    }
+
+    .section2 .p2 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section2 img {
+        width: 30rem;
+        height: 20rem;
+
+    }
+
+    .section3 {
+        padding: 35px 0px;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .section3 .p3 {
+        text-align: center;
+        font-size: 2.125rem;
+    }
+
+    .section3 .p4 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section3 img {
+        width: 30rem;
+        height: 20rem;
+    }
+
+    .section2 {
+        padding: 35px 0px;
+    }
+
+    .faqs li button, .para {
+        width: 50.5rem;
+    }
+
+    .para {
+        width: 45.614rem;
+    }
+    .section5 .footer {
+        width: 48rem;
+    }
+}
+
+@media (max-width: 900px) and (min-width: 800px) {
+    .section2 {
+        padding: 35px 0px;
+    }
+    .left img {
+        width: 6rem;
+        margin: 0px 45px;
+    }
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 3.125rem;
+    }
+
+    .section2 .p2 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section2 img {
+        width: 30rem;
+        height: 20rem;
+
+    }
+
+    .section3 {
+        padding: 35px 0px;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .section3 .p3 {
+        text-align: center;
+        font-size: 2.125rem;
+    }
+
+    .section3 .p4 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section3 img {
+        width: 30rem;
+        height: 20rem;
+    }
+
+    .section4 .faqTitle {
+        font-size: 1.9rem;
+    }
+    .faqs li button {
+        width: 45.5rem;
+    }
+
+    .para {
+        width: 40.614rem;
+    }
+    .section5 .footer {
+        width: 43rem;
+    }
+
+    .email input {
+        width: 28rem;
+    }
+
+    /* .email button {
+        padding: 18px 25px;
+    } */
+
+    .title {
+        font-size: 2.3rem;
+    }
+
+    .title1 {
+        font-size: 1rem;
+    }
+    .title2 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 800px) and (min-width: 640px) {
+
+    .section1 {
+        font-size: 2rem;
+    }
+
+    .section2 {
+        padding: 25px 0px;
+    }
+
+    .left img {
+        width: 5rem;
+        margin: 0px 45px;
+    }
+
+    .right select {
+        padding: 0rem 0.5rem;
+        font-size: 12px;
+    }
+    .right select option {
+        font-size: 12px;
+    }
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 3.125rem;
+    }
+
+    .section2 .p2 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section2 img {
+        width: 25rem;
+        height: 18rem;
+
+    }
+
+    .section3 {
+        flex-direction: column-reverse;
+        padding: 25px 0px;
+        width: 100%;
+    }
+
+    .section3 .p3 {
+        text-align: center;
+        font-size: 3.125rem;
+    }
+
+    .section3 .p4 {
+        text-align: center;
+        font-size: 1.525rem;
+    }
+
+    .section3 img {
+        width: 20rem;
+        height: 18rem;
+    }
+
+    .section2 {
+        padding: 25px 0px;
+    }
+
+    .section4 .faqTitle {
+        font-size: 2.105rem;
+    }
+
+    .faqs li button{
+        width: 30.5rem;
+        padding: 0.8em 2em 0.8em 1.2em;
+    }
+
+    .para {
+        width: 27.105rem;
+        font-size: 1rem;
+    }
+    .section5 .footer {
+        width: 36rem;
+    }
+
+    .email {
+       flex-wrap: wrap; 
+    }
+    .email input {
+        /* width: 200px; */
+        width: 23rem;
+        padding: 0.2rem 0.5rem;
+    }
+
+    .email button {
+        padding: 0.5rem 0.5rem;
+        /* margin-top: 9px; */
+    }
+
+    .title2 {
+        font-size: 0.7rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .title1 {
+        font-size: 1rem;
+    }
+    .left img {
+        margin: 0px;
+        width: 6rem;
+        position: relative;
+        left: 0px;
+    }
+    header {
+        justify-content: space-between;
+    }
+    /* .right {
+        position: relative;
+        right: 0px;
+    }
+    .right a{
+        padding: 0.3rem 1rem; 
+    } */
+}
+
+@media  (max-width: 639px) and (min-width: 450px) {
+
+    .content {
+        top: 100px;
+    }
+    .left img {
+        width: 6rem;
+        margin: 18px 30px;
+    }
+    .right {
+        margin: 20px 30px;
+    }
+    .right select {
+        padding: 0rem 0.4rem;
+        font-size: 10px;
+    }
+    .right a {
+        font-size: 11px;
+        padding: 0.18rem 0.7rem;
+        margin-left: 20px;
+    }
+    .section1 {
+        font-size: 3rem;
+        padding: 20px 10px;
+        /* width: 100%; */
+    }
+
+    .section1 {
+        font-size: 0.7rem;
+        /* width: 100%; */
+    }
+
+    .section2 {
+       /* flex-direction: column-reverse; */
+        padding: 25px 0px;
+        width: 100%;
+    }
+
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px 30px;
+    }
+
+    .section2 .p2 {
+        text-align: center;
+        font-size: 1.3rem;
+        padding: 20px 30px;
+    }
+
+    .section2 img {
+        width: 20rem;
+        height: 15rem;
+
+    }
+
+    .section3 {
+        padding: 25px 0px;
+        width: 100%;
+    }
+
+    .section3 .p3 {
+        text-align: center;
+        font-size: 2rem;
+        padding: 15px 30px;
+    }
+
+    .section3 .p4 {
+        text-align: center;
+        font-size: 1.3rem;
+        /* font-size: 1.3rem; */
+        padding: 20px 35px;
+    }
+
+    .section3 img {
+        width: 20rem;
+        height: 15rem;
+    }
+
+    /* .section2 {
+        padding: 30px 0px;
+    } */
+    
+    .section4 .faqTitle {
+        font-size: 1.9rem;
+        text-align: center;
+    }
+    .faqs li button{
+        width: 20.5rem;
+        font-size: 18px;
+    }
+
+    .para {
+        width: 17.615rem;
+        font-size: 14px;
+    }
+    
+    .section5 .footer {
+        width: 20rem;
+    }
+
+    .email {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .email input {
+        /* width: 200px; */
+        width: 18rem;
+        padding: 15px 23px;
+    }
+
+    .email button {
+        padding: .3rem .8rem;
+        margin-top: 9px;
+    }
+
+    .title2 {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+    .title {
+        font-size: 2.3rem;
+    }
+
+    .title1 {
+        font-size: 1rem;
+    }
+    .header {
+        justify-content: space-between;
+    }
+    .footerItems li {
+        font-size: 8px;
+        margin-left: 7px;
+    }
+}
+
+@media  (max-width: 450px) and (min-width:320px) {
+
+    .content {
+        top: 100px;
+    }
+    .left img {
+        width: 6rem;
+        margin: 20px 30px;
+    }
+    .right {
+        margin: 20px 30px;
+    }
+    .right select {
+        padding: 0rem 0.4rem;
+        font-size: 10px;
+    }
+    .right a {
+        font-size: 8.5px;
+        padding: 0.18rem 0.7rem;
+        margin-left: 20px;
+        font-weight: bold;
+    }
+    .section1 {
+        font-size: 3rem;
+        padding: 20px 10px;
+        /* width: 100%; */
+    }
+
+    .section1 {
+        font-size: 0.7rem;
+        /* width: 100%; */
+    }
+
+    .section2 {
+       /* flex-direction: column-reverse; */
+        padding: 25px 0px;
+        width: 100%;
+    }
+
+    /* .section2 .p1, br {
+        display: none;
+    } */
+    .section2 .p1 {
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px 30px;
+    }
+
+    .section2 .p2 {
+        text-align: center;
+        font-size: 1.3rem;
+        padding: 20px 30px;
+    }
+
+    .section2 img {
+        width: 20rem;
+        height: 15rem;
+
+    }
+
+    .section3 {
+        padding: 25px 0px;
+        width: 100%;
+    }
+
+    .section3 .p3 {
+        text-align: center;
+        font-size: 2rem;
+        padding: 20px 30px;
+    }
+
+    .section3 .p4 {
+        text-align: center;
+        font-size: 1.3rem;
+        /* font-size: 1.3rem; */
+        padding: 20px 35px;
+    }
+
+    .section3 img {
+        width: 20rem;
+        height: 15rem;
+    }
+
+    /* .section2 {
+        padding: 30px 0px;
+    } */
+    
+    .section4 .faqTitle {
+        font-size: 1.9rem;
+        text-align: center;
+        padding: 0px 30px;
+    }
+    .faqs li button{
+        width: 18.5rem;
+        font-size: 15px;
+    }
+    
+    .para {
+        width: 15.953rem;
+        font-size: 12px;
+    }
+    .section5 .footer {
+        width: 20rem;
+    }
+
+    .email {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .email input {
+        /* width: 200px; */
+        width: 15rem;
+        padding: 15px 23px;
+    }
+
+    .email button {
+        padding: .3rem .6rem;
+        margin-top: 9px;
+    }
+
+    .title2 {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+    .title {
+        font-size: 2.3rem;
+    }
+
+    .title1 {
+        font-size: 1rem;
+    }
+    
+    .header {
+        justify-content: space-between;
+    }
+    .footerItems li {
+        font-size: 8px;
+        margin-left: 7px;
+    }
+}

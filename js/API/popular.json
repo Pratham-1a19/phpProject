@@ -1,0 +1,112 @@
+{
+    "Popular": [
+        {
+            "title": "Inception",
+            "description": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571752/inception_aeknxr.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/70131314",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Godfather",
+            "description": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola.",
+            "trailer_url": "https://www.youtube.com/watch?v=sY1S34973zA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713005943/GodFather_qlv5tu.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/The-Godfather/0NZP0QITBHVQGTRES3BH7Y5VW6",
+            "genre": "Crime"
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "description": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont.",
+            "trailer_url": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571749/theShawShankRedemption_auaqpp.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/geo-availability",
+            "genre": "Drama"
+        },
+        {
+            "title": "The Matrix",
+            "description": "The Matrix is a 1999 science fiction action film written and directed by the Wachowskis.",
+            "trailer_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939941/matrix_rxiuep.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/The-Matrix/0MNMSXF63GQDYGKL8E4HV9BYO2",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "description": "The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by Peter Jackson.",
+            "trailer_url": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001071/lordOfRings_spph3s.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.max.com/geo-availability",
+            "genre": "Fantasy"
+        },
+        {
+            "title": "Interstellar",
+            "description": "Interstellar is a 2014 epic science fiction film directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940422/interstellar_zdhfgh.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70305903",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "Mirzapur S2",
+            "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+            "trailer_url": "https://www.youtube.com/watch?v=xMKzdQrC5TI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938830/mirzapur.jpg_fnhfq2.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Mirzapur/0FBF7DWFYG99Y3TSNVJ4ELOLBO",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Mirzapur S1",
+            "description": "Mirzapur is a gripping crime thriller series set in the heartland of India, where power, politics, and revenge collide. The story revolves around the lawless town of Mirzapur, ruled by mafia dons and corrupt politicians, as two brothers become entangled in the web of violence and ambition.",
+            "trailer_url": "https://www.youtube.com/watch?v=ZNeGF-PvRHY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939067/mirzapurS1_y54hvx.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/0PDOKMV9CRLOMO5EUKNCUJLG4Q/ref=atv_dp_share_cu_r",
+            "genre": "Crime, Thriller"
+        },
+        {
+            "title": "The Family Man",
+            "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+            "trailer_url": "https://www.youtube.com/watch?v=XatRGut65VI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941298/The_Family_Man_wztkru.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/The-Family-Man/0S3QYI59BAEI5KVLHCKSR91YGD",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "Special OPS",
+            "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind.",
+            "trailer_url": "https://www.youtube.com/watch?v=GF0H5DZAE2g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006061/SpecialOps_kb7uis.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/special-ops/s-2032/seasons/season-1/ss-6470",
+            "genre": "Action Thriller"
+        },
+        {
+            "title": "Scam 1992",
+            "description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+            "trailer_url": "https://www.youtube.com/watch?v=ISORfez27og",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713003546/Scam-1992_lwwhvd.webp",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta-story-1700000292",
+            "genre": "Biographical Drama"
+        },
+        {
+            "title": "Scam 2003",
+            "description": "Born in Khanapur in Karnataka, Telgi became the mastermind behind one of the most ingenious schemes in Indian history that spread across multiple states and shook the entire country.",
+            "trailer_url": "https://www.youtube.com/watch?v=JrotIxxCXiA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712936618/scam2003_ymssfc.jpg",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-2003-the-telgi-story-hindi-1700001283",
+            "genre": "Biography, Crime, Drama"
+        }
+    ]
+}

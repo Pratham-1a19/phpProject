@@ -1,0 +1,229 @@
+{
+    "Drama" : [
+        {
+            "title": "The Shawshank Redemption",
+            "description": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont.",
+            "trailer_url": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571749/theShawShankRedemption_auaqpp.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/geo-availability",
+            "genre": "Drama"
+        },
+        {
+            "title": "Gladiator",
+            "description": "Gladiator is a 2000 epic historical drama film directed by Ridley Scott.",
+            "trailer_url": "https://www.youtube.com/watch?v=owK1qxDselE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941476/gladiator_zdt6da.jpg",
+            "platform": "HBO Max",
+            "platform_url": "https://www.hbomax.com/geo-availability",
+            "genre": "Drama"
+        },
+        {
+            "title": "The Lion King",
+            "description": "The Lion King is a 1994 American animated musical drama film produced by Walt Disney Feature Animation and released by Walt Disney Pictures.",
+            "trailer_url": "https://www.youtube.com/watch?v=4sj1MT05lAA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002119/TheLionKing_womuk7.webp",
+            "platform": "Disney+",
+            "platform_url": "https://www.disneyplus.com/movies/the-lion-king/gDBvSe4GpZPD",
+            "genre": "Drama"
+        },
+        {
+            "title": "3 Idiots",
+            "description": "3 Idiots is a 2009 Indian coming-of-age comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=xvszmNXdM4w",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006311/3idiots_fywooe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/3-Idiots/0LH1GMRIWABG6AFSW62O3BJJHH",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Lagaan",
+            "description": "Lagaan is a 2001 Indian epic sports-drama film directed by Ashutosh Gowariker.",
+            "trailer_url": "https://www.youtube.com/watch?v=rZPbpymefuE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001602/Lagaan_dmnwsj.webp",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/60020906",
+            "genre": "Sports-Drama"
+        },
+        {
+            "title": "Kabhi Khushi Kabhie Gham",
+            "description": "Kabhi Khushi Kabhie Gham is a 2001 Indian family drama film written and directed by Karan Johar.",
+            "trailer_url": "https://www.youtube.com/watch?v=7uY1JbWZKPA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941193/k3g_e8ppw1.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Kabhi-Khushi-Kabhie-Gham/0JTA4DCIE2BQ14BXW86DCXNRYX",
+            "genre": "Family Drama"
+        },
+        {
+            "title": "Gully Boy",
+            "description": "Gully Boy is a 2019 Indian Hindi-language musical drama film directed by Zoya Akhtar.",
+            "trailer_url": "https://www.youtube.com/watch?v=JfbxcD6biOk",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712942199/Gully-Boy-wallpaper_qojetn.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Gully-Boy/0I5OF8K1O8JNLUPOQ3VU3MBR5I",
+            "genre": "Musical Drama"
+        },
+        {
+            "title": "PK",
+            "description": "PK is a 2014 Indian satirical comedy-drama film directed by Rajkumar Hirani.",
+            "trailer_url": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002755/pk_fgzyvo.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70303496",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Queen",
+            "description": "Queen is a 2013 Indian comedy-drama film directed by Vikas Bahl.",
+            "trailer_url": "https://www.youtube.com/watch?v=KGC6vl3lzf0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006478/queen_nemq6u.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Queen/0MRYKAWL6E1OV2J7WL28DS9MGV",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Bajrangi Bhaijaan",
+            "description": "Bajrangi Bhaijaan is a 2015 Indian Hindi-language drama film directed by Kabir Khan.",
+            "trailer_url": "https://www.youtube.com/watch?v=Oz_ZJhcOX1E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571744/BajrangiBhaijaan_o6vqyv.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.amazon.com/Bajrangi-Bhaijaan-Kabir-Khan/dp/B073WLFCTW",
+            "genre": "Drama"
+        },
+        {
+            "title": "Rangasthalam",
+            "description": "Rangasthalam is a period action drama directed by Sukumar. It tells the story of Chitti Babu, a partially deaf man, who becomes involved in a political rivalry in his village.",
+            "trailer_url": "https://www.youtube.com/watch?v=sueMmTm-M4Y",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006181/Rangasthalam_yyjg89.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Rangasthalam/0HSV48B67LQUWLLQCR26F6ZJFZ",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "Super Deluxe",
+            "description": "Super Deluxe is a Tamil-language black comedy-drama directed by Thiagarajan Kumararaja. It follows the interconnected lives of several characters over the course of a day.",
+            "trailer_url": "https://www.youtube.com/watch?v=3-Xq_Zz3nPA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713005850/SuperDeluxe_fi07vd.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/81128584",
+            "genre": "Black Comedy-Drama"
+        },
+        {
+            "title": "Bangalore Days",
+            "description": "Bangalore Days is a Malayalam-language romantic drama directed by Anjali Menon. It follows the lives of three cousins who move to Bangalore and explores their relationships and aspirations.",
+            "trailer_url": "https://www.youtube.com/watch?v=uVpHL5g4buY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002888/bangaloreDays_t9v9xe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Bangalore-Days/0K1VXSDILKJZZCVUSIV07FV0HT",
+            "genre": "Romantic Drama"
+        },
+        {
+            "title": "Arjun Reddy",
+            "description": "Arjun Reddy is a Telugu-language romantic drama directed by Sandeep Reddy Vanga. It tells the story of a brilliant but self-destructive surgeon and his tumultuous relationship with his girlfriend.",
+            "trailer_url": "https://www.youtube.com/watch?v=aozErj9NqeE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002338/ArjunReddy_madsxi.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Arjun-Reddy/0OBAEGVBDLVH04ZLXGRY1LQO6L",
+            "genre": "Romantic Drama"
+        },
+        {
+            "title": "Mirzapur S2",
+            "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+            "trailer_url": "https://www.youtube.com/watch?v=xMKzdQrC5TI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938830/mirzapur.jpg_fnhfq2.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Mirzapur/0FBF7DWFYG99Y3TSNVJ4ELOLBO",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Delhi Crime",
+            "description": "Based on the 2012 Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+            "trailer_url": "https://www.youtube.com/watch?v=jNuKwlKJx2E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001247/DelhiCrime_dpqwxn.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/81076756",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "The Family Man",
+            "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+            "trailer_url": "https://www.youtube.com/watch?v=XatRGut65VI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941298/The_Family_Man_wztkru.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/The-Family-Man/0S3QYI59BAEI5KVLHCKSR91YGD",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "Made in Heaven",
+            "description": "Made In Heaven chronicles the lives of Tara and Karan, two wedding planners in Delhi. India is a potent blend of old and new.",
+            "trailer_url": "https://www.youtube.com/watch?v=u0UkDQaR5KQ",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939403/madeInHeaven_t0rawv.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Made-In-Heaven/0JP36WERGLAJLNET3SZS9XTXJ1",
+            "genre": "Drama"
+        },
+        {
+            "title": "Panchayat",
+            "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+            "trailer_url": "https://www.youtube.com/watch?v=mojZJ7oeD_g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940230/Panchayaat_mvu12t.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Panchayat/0KEP4A6DWRKFYQFTSU5RXHEAN2",
+            "genre": "Comedy-Drama"
+        },
+        {
+            "title": "Paatal Lok",
+            "description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit of it leads him to 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+            "trailer_url": "https://www.youtube.com/watch?v=cNwWMW4mxO8",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939559/pataalLok_odosi4.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Paatal-Lok/0Q3AZ9MO1VULJNIG0PT00LR0M0",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Aarya",
+            "description": "When her world suddenly turns upside down, will Aarya become the very thing she hated?How far will she go to survive and protect her family?",
+            "trailer_url": "https://www.youtube.com/watch?v=ZYajW2ePmFQ",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006642/Arya_zilgfy.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/aarya/1260028094/seasons/season-1/ss-6516",
+            "genre": "Drama"
+        },
+        {
+            "title": "Scam 1992",
+            "description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+            "trailer_url": "https://www.youtube.com/watch?v=ISORfez27og",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713003546/Scam-1992_lwwhvd.webp",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta-story-1700000292",
+            "genre": "Biographical Drama"
+        },
+        {
+            "title": "Scam 2003",
+            "description": "Born in Khanapur in Karnataka, Telgi became the mastermind behind one of the most ingenious schemes in Indian history that spread across multiple states and shook the entire country.",
+            "trailer_url": "https://www.youtube.com/watch?v=JrotIxxCXiA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712936618/scam2003_ymssfc.jpg",
+            "platform": "SonyLIV",
+            "platform_url": "https://www.sonyliv.com/shows/scam-2003-the-telgi-story-hindi-1700001283",
+            "genre": "Biography, Crime, Drama"
+        },
+        {
+            "title": "The Ghazi Attack",
+            "description": "Set in 1971, during the Indo-Pakistani War, the film depicts the true events surrounding the classified operation conducted by the Indian Navy against the Pakistani submarine Ghazi, which aimed to destroy INS Vikrant.",
+            "trailer_url": "https://www.youtube.com/watch?v=Xn2qOnKuOoc",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712936909/GhaziAttack_aef7bl.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/80175334",
+            "genre": "War Drama"
+        },
+        {
+            "title": "Sam Bahadur",
+            "description": "Sam Bahadur is a riveting biographical film that chronicles the remarkable life of Sam Manekshaw, one of India's most celebrated military leaders. Sam Manekshaw is one of the most decorated officers in the Indian army, serving for over four decades and fighting in five wars. He is the first army officer to be promoted to the rank of Field Marshal.",
+            "trailer_url": "https://www.youtube.com/watch?v=6xJptj7AVSA",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712937143/SamBahadur_hyyjhg.jpg",
+            "platform": "Zee5",
+            "platform_url": "https://www.zee5.com/movies/details/sam-bahadur/0-0-1z5500337",
+            "genre": "Biography, Drama"
+        }
+    ]
+}

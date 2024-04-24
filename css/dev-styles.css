@@ -1,0 +1,20 @@
+.dev-font-3 {
+    font-size: 2rem;
+}
+
+.dev-height {
+    height: 20rem;
+}
+
+.dev-image {
+    box-shadow: inset 0px 0px 100px 55px rgb(0, 0, 0);
+    backdrop-filter: brightness(0.9);
+}
+
+.dev-badge {
+    text-decoration: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+}

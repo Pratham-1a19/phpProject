@@ -1,0 +1,40 @@
+{
+    "ScienceFiction": [
+        {
+            "title": "Inception",
+            "description": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571752/inception_aeknxr.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/in/title/70131314",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "The Matrix",
+            "description": "The Matrix is a 1999 science fiction action film written and directed by the Wachowskis.",
+            "trailer_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939941/matrix_rxiuep.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/The-Matrix/0MNMSXF63GQDYGKL8E4HV9BYO2",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "Avatar",
+            "description": "Avatar is a 2009 American epic science fiction film directed, written, produced, and co-edited by James Cameron.",
+            "trailer_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002493/AVATAR2_z69z2u.webp",
+            "platform": "Disney+",
+            "platform_url": "https://www.disneyplus.com/movies/avatar/2YOnkRN4LwZZ",
+            "genre": "Science Fiction"
+        },
+        {
+            "title": "Interstellar",
+            "description": "Interstellar is a 2014 epic science fiction film directed by Christopher Nolan.",
+            "trailer_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712940422/interstellar_zdhfgh.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/70305903",
+            "genre": "Science Fiction"
+        }
+    ]
+}

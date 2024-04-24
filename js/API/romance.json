@@ -1,0 +1,31 @@
+{
+    "Romance" : [
+        {
+            "title": "Dilwale Dulhania Le Jayenge",
+            "description": "Dilwale Dulhania Le Jayenge is a 1995 Indian romance film directed by Aditya Chopra.",
+            "trailer_url": "https://www.youtube.com/watch?v=oIZ4U21DRlM",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001470/ddlj_lkcyot.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Dilwale-Dulhania-Le-Jayenge/0FWM6LXBGLJP0XQDQYPI9H4PMH",
+            "genre": "Romance"
+        },
+        {
+            "title": "Bangalore Days",
+            "description": "Bangalore Days is a Malayalam-language romantic drama directed by Anjali Menon. It follows the lives of three cousins who move to Bangalore and explores their relationships and aspirations.",
+            "trailer_url": "https://www.youtube.com/watch?v=uVpHL5g4buY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002888/bangaloreDays_t9v9xe.webp",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Bangalore-Days/0K1VXSDILKJZZCVUSIV07FV0HT",
+            "genre": "Romantic Drama"
+        },
+        {
+            "title": "Arjun Reddy",
+            "description": "Arjun Reddy is a Telugu-language romantic drama directed by Sandeep Reddy Vanga. It tells the story of a brilliant but self-destructive surgeon and his tumultuous relationship with his girlfriend.",
+            "trailer_url": "https://www.youtube.com/watch?v=aozErj9NqeE",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713002338/ArjunReddy_madsxi.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/Arjun-Reddy/0OBAEGVBDLVH04ZLXGRY1LQO6L",
+            "genre": "Romantic Drama"
+        }
+    ]
+}

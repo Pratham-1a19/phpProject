@@ -1,0 +1,58 @@
+{
+    "Latest" : [
+        {
+            "title": "Sacred Games",
+            "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm.",
+            "trailer_url": "https://www.youtube.com/watch?v=AkUgf2jIPyI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1711571741/sacredGames_cogmbv.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/80115328",
+            "genre": "Crime Thriller"
+        },
+        {
+            "title": "Mirzapur S2",
+            "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur.",
+            "trailer_url": "https://www.youtube.com/watch?v=xMKzdQrC5TI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712938830/mirzapur.jpg_fnhfq2.jpg",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/Mirzapur/0FBF7DWFYG99Y3TSNVJ4ELOLBO",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "Mirzapur S1",
+            "description": "Mirzapur is a gripping crime thriller series set in the heartland of India, where power, politics, and revenge collide. The story revolves around the lawless town of Mirzapur, ruled by mafia dons and corrupt politicians, as two brothers become entangled in the web of violence and ambition.",
+            "trailer_url": "https://www.youtube.com/watch?v=ZNeGF-PvRHY",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712939067/mirzapurS1_y54hvx.jpg",
+            "platform": "Amazon Prime Video",
+            "platform_url": "https://www.primevideo.com/detail/0PDOKMV9CRLOMO5EUKNCUJLG4Q/ref=atv_dp_share_cu_r",
+            "genre": "Crime, Thriller"
+        },
+        {
+            "title": "Delhi Crime",
+            "description": "Based on the 2012 Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+            "trailer_url": "https://www.youtube.com/watch?v=jNuKwlKJx2E",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713001247/DelhiCrime_dpqwxn.jpg",
+            "platform": "Netflix",
+            "platform_url": "https://www.netflix.com/title/81076756",
+            "genre": "Crime Drama"
+        },
+        {
+            "title": "The Family Man",
+            "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+            "trailer_url": "https://www.youtube.com/watch?v=XatRGut65VI",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1712941298/The_Family_Man_wztkru.webp",
+            "platform": "Amazon Prime",
+            "platform_url": "https://www.primevideo.com/detail/The-Family-Man/0S3QYI59BAEI5KVLHCKSR91YGD",
+            "genre": "Action Drama"
+        },
+        {
+            "title": "Special OPS",
+            "description": "The series follows Himmat Singh of Research and Analysis Wing who draws similar patterns in terrorist attacks and is convinced a single person is behind all the attacks. His task force team of five agents living in various parts of the world aim to catch the mastermind.",
+            "trailer_url": "https://www.youtube.com/watch?v=GF0H5DZAE2g",
+            "img_url": "https://res.cloudinary.com/dvj3i9gog/image/upload/v1713006061/SpecialOps_kb7uis.jpg",
+            "platform": "Disney+ Hotstar",
+            "platform_url": "https://www.hotstar.com/ca/tv/special-ops/s-2032/seasons/season-1/ss-6470",
+            "genre": "Action Thriller"
+        }
+    ]
+}
